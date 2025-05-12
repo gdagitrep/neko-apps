@@ -1,0 +1,7 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Do not switch from python3.13 or from PyQt6
+Our ubuntu version is 24.04 
